@@ -34,7 +34,7 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 
 ## 💻 Projeto
 
-O Happy é uma aplicação que conecta pessoas à casas de acolhimento institucional para fazer o dia de muitas crianças mais feliz 💜
+O Happy é uma aplicação que conecta pessoas às casas de acolhimento institucional para fazer o dia de muitas crianças mais feliz 💜
 
 Este é um projeto desenvolvido durante a Next Level Week #03, realizada pela [@Rocketseat](https://github.com/Rocketseat) durante os dias 12 a 18 de Outubro de 2020. 
 
